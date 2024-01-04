@@ -18,3 +18,11 @@ What are the key factors influencing the residential energy price (Cents/kWh) in
 - Cushing, OK Crude Oil Future Contract 1 (Dollars per Barrel)
 - Coal_Price
 - Residential Customer Count
+
+
+***Data Handling***
+The study involves extensive data handling steps, including loading various datasets related to energy, formatting and merging them, and data cleaning.
+Formmatted data is loaded into Data/Formatted/ folder.
+
+***Analysis and Modeling***
+The document covers exploratory data analysis, including checking correlations, temporal and geographical trends, and consumption patterns. It also includes outlier detection and implements several predictive models like Linear Regression, Random Forest, XG Boosting, and more.
