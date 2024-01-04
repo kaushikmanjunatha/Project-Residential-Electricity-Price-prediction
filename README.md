@@ -6,12 +6,12 @@ What are the key factors influencing the residential energy price (Cents/kWh) in
 
 ***Target Variable (1)***
 
-Residential Price Cents/kWh
+- Residential Price Cents/kWh
 
 ***Input Variables (8)***
 
-Total Revenue Thousand Dollars
-Generation_from_Coal_MWh
+- Total Revenue Thousand Dollars
+- Generation_from_Coal_MWh
 Generation_from_Petroleum_MWh
 Consumption_Coal (Short Tons)
 Consumption_Petroleum (Barrels)
