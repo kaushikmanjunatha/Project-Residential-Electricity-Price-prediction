@@ -12,9 +12,9 @@ What are the key factors influencing the residential energy price (Cents/kWh) in
 
 - Total Revenue Thousand Dollars
 - Generation_from_Coal_MWh
-Generation_from_Petroleum_MWh
-Consumption_Coal (Short Tons)
-Consumption_Petroleum (Barrels)
-Cushing, OK Crude Oil Future Contract 1 (Dollars per Barrel)
-Coal_Price
-Residential Customer Count
+- Generation_from_Petroleum_MWh
+- Consumption_Coal (Short Tons)
+- Consumption_Petroleum (Barrels)
+- Cushing, OK Crude Oil Future Contract 1 (Dollars per Barrel)
+- Coal_Price
+- Residential Customer Count
